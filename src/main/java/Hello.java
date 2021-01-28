@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("add something to test");
         System.out.println("Movie 2 is on the phone 15 mint");
         // movie on the phone 20 mint
+        // final hour to be done before going back to the living room
 
     }
 }
