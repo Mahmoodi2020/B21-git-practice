@@ -5,6 +5,9 @@ public class Hello {
         System.out.println("B21 are stars");
         System.out.println("ready to go back to where ever");
         System.out.println("add something to test");
-       // someone else came to move the tv location
+        System.out.println("Movie 2 is on the phone 15 mint");
+        // movie on the phone 20 mint
+        // final hour to be done before going back to the living room
+
     }
 }
